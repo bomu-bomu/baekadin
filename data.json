@@ -1,0 +1,43 @@
+[
+  {
+    "name": "รองเท้านันยาง",
+    "date": "26 Sep 2020",
+    "place": "Bangkok",
+    "type": "sell",
+    "price": 10,
+    "image": "0.png",
+    "sold": false,
+    "promote": true
+  },
+  {
+    "name": "Asics Gel Kayano",
+    "date": "26 Sep 2020",
+    "place": "Bangkok",
+    "type": "sell",
+    "price": 2000,
+    "image": "1.png",
+    "sold": true,
+    "promote": false
+  },
+  {
+    "name": "Garmin พี่ตูน",
+    "date": "26 Sep 2020",
+    "expire": "30 Sep 2020",
+    "place": "Bangkok",
+    "type": "bid",
+    "price": 5000,
+    "image": "2.png",
+    "sold": false,
+    "promote": false
+  },
+  {
+    "name": "Destiny Gundam",
+    "date": "26 Sep 2020",
+    "place": "Bangkok",
+    "type": "sell",
+    "price": 1500,
+    "image": "3.png",
+    "sold": false,
+    "promote": false
+  }
+]
